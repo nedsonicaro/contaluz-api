@@ -9,5 +9,6 @@ public class ContaluzApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(ContaluzApiApplication.class, args);
     }
+    
 
 }
